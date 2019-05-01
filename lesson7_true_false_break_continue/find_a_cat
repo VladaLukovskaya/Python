@@ -1,0 +1,9 @@
+strings = int(input('Enter the number of strings: '))
+cat = False
+
+for i in range(strings):
+    str = input()
+    if 'Cat' in str or 'cat' in str:
+        cat = True
+if cat:
+    print('Meow')
