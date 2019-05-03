@@ -1,8 +1,6 @@
 columns = int(input('The number of columns: '))
 strings = int(input('The number of strings: '))
 symbol = input('Enter your symbol: ')
-column = 0
-string = 0
 
 for string in range(strings):
     if string == 0 or string == strings - 1:
