@@ -1,4 +1,3 @@
-bull = cow = calf = 0
 subsidy = int(input('Enter the subsidy amount: '))
 animals = int(input('Enter the number of animals: '))
 bulls = subsidy // 20
