@@ -1,9 +1,10 @@
-strings = int(input('Enter the number of strings: '))
+num_of_strings = int(input('Enter the number of strings: '))
+strings = 0
 cat = False
 
-for i in range(strings):
-    str = input()
-    if 'Cat' in str or 'cat' in str:
+for strings in range(num_of_strings):
+    string = input()
+    if 'Cat' in string or 'cat' in string:
         cat = True
 if cat:
     print('Meow')
