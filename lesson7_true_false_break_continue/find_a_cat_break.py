@@ -3,6 +3,7 @@ flag = True
 
 for i in range(strings):
     string = input()
+    string = string.lower()
     if 'cat' in string:
         print('Meow')
         flag = False

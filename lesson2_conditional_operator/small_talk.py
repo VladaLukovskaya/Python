@@ -1,4 +1,5 @@
 answer = input('Приветсвую! Как Ваше настроение? ')
+answer = answer.lower()
 
 if 'не ' in answer:
     print('Кажется, я не очень хорошо понимаю Ваш ответ.')

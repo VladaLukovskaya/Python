@@ -4,6 +4,7 @@ flag = False
 
 while number >= 0:  # либо до момента, пока не встретим "стоп"
     string = input()
+    string = string.lower()
     number += 1
     if 'cat' in string and num_of_str != 0:
         continue
