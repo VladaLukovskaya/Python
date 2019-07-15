@@ -1,5 +1,6 @@
 step = int(input('Enter a number: '))
 message = input('Enter your message: ')
+message = message.lower()
 new_message = ''
 
 for letter in range(len(message)):
