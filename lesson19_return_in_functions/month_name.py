@@ -1,5 +1,5 @@
 def month_name(month, language):
-    eng_months = {
+    eng_months = {  # можно было просто через список и искать по индексу
         '1': 'january',
         '2': 'february',
         '3': 'march',

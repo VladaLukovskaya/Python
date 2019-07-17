@@ -2,23 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d1ef537-125b-4270-9745-5a6260a0210c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson18_functions/ask_password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson18_functions/bracket_sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson18_functions/crash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson18_functions/golden_ratio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson18_functions/smile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson18_functions/straight_equation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson19_return_in_functions/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson19_return_in_functions/month_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson19_return_in_functions/palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson19_return_in_functions/simple_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20_function_scope/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson20_function_scope/bureaucracy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson20_function_scope/doctor_aibolit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson20_function_scope/lucky_passenger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson20_function_scope/new_jokes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson20_function_scope/thrown_stone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson20_function_scope/translate_nrzbrchv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21_passing_parameters_to_functions/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21_passing_parameters_to_functions/matrix_transpose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21_passing_parameters_to_functions/numbers_in_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21_passing_parameters_to_functions/task_from_lesson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson21_passing_parameters_to_functions/tets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson10_strings_indexing/caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10_strings_indexing/caesar_cipher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson10_strings_indexing/capital_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10_strings_indexing/capital_letter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson18_functions/main" beforeDir="false" afterPath="$PROJECT_DIR$/lesson18_functions/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while/main" beforeDir="false" afterPath="$PROJECT_DIR$/while/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson15_list_and_string_methods/main" beforeDir="false" afterPath="$PROJECT_DIR$/lesson15_list_and_string_methods/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson19_return_in_functions/month_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson19_return_in_functions/month_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson20_function_scope/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson20_function_scope/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_true_false_break_continue/find_a_cat" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,51 +28,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson19_return_in_functions/month_name.py">
+        <entry file="file://$PROJECT_DIR$/lesson21_passing_parameters_to_functions/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson19_return_in_functions/palindrome.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson19_return_in_functions/simple_numbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="60">
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson20_function_scope/main.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+        <entry file="file://$PROJECT_DIR$/lesson21_passing_parameters_to_functions/matrix_transpose.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="195">
+              <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson17_dictionaries/main">
+        <entry file="file://$PROJECT_DIR$/lesson14_join_split_and_list_comprehension/main">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -116,10 +92,22 @@
         <option value="$PROJECT_DIR$/lesson18_functions/bracket_sequence.py" />
         <option value="$PROJECT_DIR$/lesson18_functions/straight_equation.py" />
         <option value="$PROJECT_DIR$/lesson19_return_in_functions/main.py" />
-        <option value="$PROJECT_DIR$/lesson19_return_in_functions/month_name.py" />
         <option value="$PROJECT_DIR$/lesson19_return_in_functions/palindrome.py" />
         <option value="$PROJECT_DIR$/lesson19_return_in_functions/simple_numbers.py" />
+        <option value="$PROJECT_DIR$/lesson19_return_in_functions/month_name.py" />
         <option value="$PROJECT_DIR$/lesson20_function_scope/main.py" />
+        <option value="$PROJECT_DIR$/lesson20_function_scope/thrown_stone.py" />
+        <option value="$PROJECT_DIR$/lesson20_function_scope/translate_nrzbrchv.py" />
+        <option value="$PROJECT_DIR$/lesson20_function_scope/bureaucracy.py" />
+        <option value="$PROJECT_DIR$/lesson20_function_scope/new_jokes.py" />
+        <option value="$PROJECT_DIR$/lesson20_function_scope/doctor_aibolit.py" />
+        <option value="$PROJECT_DIR$/lesson20_function_scope/lucky_passenger.py" />
+        <option value="$PROJECT_DIR$/lesson21_passing_parameters_to_functions/task_from_lesson.py" />
+        <option value="$PROJECT_DIR$/lesson21_passing_parameters_to_functions/main.py" />
+        <option value="$PROJECT_DIR$/lesson21_passing_parameters_to_functions/tets.py" />
+        <option value="$PROJECT_DIR$/lesson21_passing_parameters_to_functions/numbers_in_string.py" />
+        <option value="$PROJECT_DIR$/lesson15_list_and_string_methods/main" />
+        <option value="$PROJECT_DIR$/lesson21_passing_parameters_to_functions/matrix_transpose.py" />
       </list>
     </option>
   </component>
@@ -148,12 +136,7 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson19_return_in_functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson20_function_scope" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson21_passing_parameters_to_functions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,28 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.simple_numbers">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson19_return_in_functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson19_return_in_functions/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.matrix_transpose">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2_conditional_operator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson21_passing_parameters_to_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2_conditional_operator/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson21_passing_parameters_to_functions/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="month_name" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="matrix_transpose" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson19_return_in_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson21_passing_parameters_to_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson19_return_in_functions/month_name.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson21_passing_parameters_to_functions/matrix_transpose.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="numbers_in_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,11 +211,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson19_return_in_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson21_passing_parameters_to_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson19_return_in_functions/palindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson21_passing_parameters_to_functions/numbers_in_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,7 +224,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="task_from_lesson" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,11 +232,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson19_return_in_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson21_passing_parameters_to_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson19_return_in_functions/simple_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson21_passing_parameters_to_functions/task_from_lesson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson21_passing_parameters_to_functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson21_passing_parameters_to_functions/tets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.simple_numbers" />
-        <item itemvalue="Python.palindrome" />
-        <item itemvalue="Python.month_name" />
-        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.matrix_transpose" />
+        <item itemvalue="Python.numbers_in_string" />
+        <item itemvalue="Python.tets" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.task_from_lesson" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +286,7 @@
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -390,13 +373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson12_lists/main">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson12_lists/RLE.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -413,13 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson13_tuples/main">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -472,10 +441,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lesson19_return_in_functions/month_name.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+        <state relative-caret-position="330">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson7_true_false_break_continue/find_a_cat.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson7_true_false_break_continue/find_a_cat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson19_return_in_functions/simple_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson20_function_scope/thrown_stone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -486,13 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson17_dictionaries/main">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -500,15 +489,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson19_return_in_functions/simple_numbers.py">
+    <entry file="file://$PROJECT_DIR$/lesson20_function_scope/bureaucracy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson20_function_scope/translate_nrzbrchv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson20_function_scope/new_jokes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson20_function_scope/lucky_passenger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson20_function_scope/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson20_function_scope/doctor_aibolit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13_tuples/main">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson21_passing_parameters_to_functions/numbers_in_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson21_passing_parameters_to_functions/tets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson12_lists/main">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson21_passing_parameters_to_functions/task_from_lesson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson21_passing_parameters_to_functions/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson15_list_and_string_methods/main">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson14_join_split_and_list_comprehension/main">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson21_passing_parameters_to_functions/matrix_transpose.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
