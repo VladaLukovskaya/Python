@@ -1,15 +1,15 @@
 step = int(input('Enter a number: '))
 message = input('Enter your message: ')
-message = message.lower()
 new_message = ''
 
-for letter in range(len(message)):
-    new = ''
-    new_letter = message[letter]
-    if (ord(new_letter) + step) <= 122:
-        new += chr(ord(new_letter) + step)
-        new_message += new  # как сделать пробелы для разных слов?
+for letter in message:
+    if (ord(letter) >= 65) and (ord(letter) <= 122):
+        if (ord(letter) >= 91) and (ord(letter) <= 96) or (ord(letter) == 32):
+            new_message += letter  # все "небуквы" оставляем неизменными
+        elif ord(letter) + step <= 122:
+            new_message += chr(ord(letter) + step)
+        else:  # если эта латинская буква с прибавкой выходит за диапазон:
+            new_message += chr(ord(letter) + step - 26)
     else:
-        new += chr(ord(new_letter) + step - 26)
-        new_message += new
+        new_message += letter
 print(new_message)
