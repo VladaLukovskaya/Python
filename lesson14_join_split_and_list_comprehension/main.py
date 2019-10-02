@@ -32,3 +32,15 @@ print(evil, good, sep='\n')
 print('\n')
 
 print(', '.join(str(i) + '^2=' + str(i**2) for i in range(1, 10)))
+
+print('\nСписочные выражения также могут фильтровать список: ')
+print([x for x in range(10) if x % 2 == 0 and x % 3 != 0])  # список чётных цифр, \
+# не делящихся на 3
+
+
+# преобразуем список слов двумя разными способамия:
+words = ['В', 'новом', 'списке', 'останутся', 'только','длинные', 'слова']
+long_words = list(map(lambda word: word.upper(),
+filter(lambda word: len(word) > 6, words)))
+long_words_lambda = [word.upper() for word in words if len(word) > 6]
+print('\n', long_words, long_words_lambda)
