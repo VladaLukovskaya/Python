@@ -1,0 +1,5 @@
+print('1 bit is the smallest part of info.')
+print('1 byte equals 8 bit.')
+print('1 kilobit equals 1024 bit.')
+print('1 kilobyte equals 1024 byte.')
+print('1 kilobyte equals', 1024*8, 'kilobit.')

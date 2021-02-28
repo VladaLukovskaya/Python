@@ -1,10 +1,12 @@
-n = int(input())
+number = int(input())
 count = 0
-while n != 1:
-    if n % 2 == 0:
-        n /= 2
+
+while number != 1:
+    if number % 2 == 0:
+        number /= 2
         count += 1
     else:
-        n -= 1
+        number -= 1
         count += 1
+
 print(count)

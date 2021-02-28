@@ -1,11 +1,12 @@
-first = int(input('Начальное количество камней в первой куче: '))
-second = int(input('Начальное количество камней во второй куче: '))
-while first != 0 or second != 0:
-    n = int(input('Номер кучи: '))
-    c = int(input('Количество забираемых камней: '))
-    if n == 1:
-        first -= c
-        print(first, second)
+first_heap = int(input('Amount of stones in the first heap at the beginning: '))
+second_heap = int(input('Amount of stones in the second heap at the beginning: '))
+
+while first_heap != 0 or second_heap != 0:
+    heap_number = int(input('The heap number: '))
+    stones_number = int(input('Amount of taken stones: '))
+    if heap_number == 1:
+        first_heap -= stones_number
+        print('Amount of stones in the first heap', first_heap, '\nAmount of stones in the first heap', second_heap)
     else:
-        second -= c
-        print(first, second)
+        second_heap -= stones_number
+        print('Amount of stones in the first heap', first_heap, '\nAmount of stones in the first heap', second_heap)
