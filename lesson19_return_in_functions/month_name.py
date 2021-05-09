@@ -33,4 +33,4 @@ def month_name(month, language):
         return rus_months.get(month, 'There is no month with this number.')
 
 
-print(month_name('8', 'english'))  # look for 8-th month in english
+print(month_name('8', 'english'))  # looking for 8-th month in english

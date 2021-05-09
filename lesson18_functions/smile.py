@@ -17,8 +17,3 @@ def print_ktulhu_smile():
 
 def print_happy_smile():
     print('(͡°͜ʖ͡°)')
-
-
-smile = input('Enter the name of smile: ')
-
-print_func(smile)

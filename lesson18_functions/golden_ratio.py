@@ -1,10 +1,3 @@
-# def golden_ratio():
-#    number = int(input('Enter the number of fibonacci: '))
-#    prev_number = int(input('Enter the previously number: '))
-#    next_number = number + prev_number
-#    ratio = next_number / number
-#    return ratio
-
 num = int(input('Enter the number: '))
 
 
@@ -15,7 +8,8 @@ def fibonacci(number):
 
 
 def golden_ratio(number):
+    print(fibonacci(number + 1) / fibonacci(number))
     return fibonacci(number + 1) / fibonacci(number)
 
 
-print(golden_ratio(num))
+golden_ratio(num)
