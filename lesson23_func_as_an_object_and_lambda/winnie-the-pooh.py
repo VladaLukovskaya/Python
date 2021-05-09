@@ -7,8 +7,8 @@ counter = list()
 for phrase in phrases:
     vowels_in_phrase = list(filter(lambda letter: letter in vowels, phrase))
     all_syllables.append(vowels_in_phrase)
-    counter = [len(elem) for elem in all_syllables]
 
+counter = [len(elem) for elem in all_syllables]
 counter = set(counter)
 
 if len(counter) == 1:
