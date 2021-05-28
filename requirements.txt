@@ -1,0 +1,4 @@
+freeze==0.0.1
+mpmath==1.2.1
+Pillow==8.2.0
+sympy==1.8
